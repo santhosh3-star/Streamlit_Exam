@@ -143,7 +143,7 @@ div[class*="st-key-searchcard"] {
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("Top 250 movies on imdb in 2026.csv")
+    return pd.read_csv("ToP 250 movies on imdb in 2026.csv")
 
 
 try:
